@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+
 </p>
 <hr>
 <h1 align="center"> ¡Hola! soy <a href="https://github.com/FedeBarbarroja">Fede<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
@@ -16,7 +21,7 @@
 
 <hr>
 <Br>
-<h1 align="center">Mis habilidades💻</h1>
+<h1>Mis habilidades💻</h1>
 <Br>
 <h4> Lenguajes </h4>
 <span> 
