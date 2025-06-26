@@ -17,16 +17,17 @@
 - 🤔: Buscando proyectos en los que trabajar, aprender y perfeccionar mis habilidades.
 - 💬: Experiencia en la extracción, limpieza, análisis y visualización de datos.🔎📊
 - 💡: Interesado en ciencia de datos y ML
+- [![Currículum](https://img.shields.io/badge/Currículum-0078D4?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/FedeBarbarroja/CV)
   
-
 <hr>
-<Br>
+
 <h1>Mis habilidades💻</h1>
-<Br>
+
 <h4> Lenguajes </h4>
 <span> 
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-fcbf49?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </span>
 
@@ -35,6 +36,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Seaborn-219ebc?style=for-the-badge&logo=seaborn&logoColor=white">
 </span>
 
 <h4> Bases de datos </h4>
@@ -70,21 +72,26 @@
   
 </span>
 
+<hr>
+
+<h1>Algunos de mis proyectos🎨</h1>
+
+<Br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FedeBarbarroja&repo=EPH_Income_Analysis_R&show_owner=true)](https://github.com/FedeBarbarroja/EPH_Income_Analysis_R)
 
 <hr>
-<Br>
+
 <h1 align="center">Contacto📬</h1>
 <Br>
 <p align="center">
 <a href="https://www.linkedin.com/in/fedebarbarroja/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:federicobarbarroja05@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/FedeBarbarroja" target="blank"><img align="center" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
-<Br>
-  
-<Br>
 <hr>
-<Br>
 
+<Br>
 
 <h1 align="center">¡Muchas gracias por ver! </h1>
+
 <Br>
