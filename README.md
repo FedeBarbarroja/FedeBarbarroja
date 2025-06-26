@@ -17,7 +17,8 @@
 - 🤔: Buscando proyectos en los que trabajar, aprender y perfeccionar mis habilidades.
 - 💬: Experiencia en la extracción, limpieza, análisis y visualización de datos.🔎📊
 - 💡: Interesado en ciencia de datos y ML
-- [![Currículum](https://img.shields.io/badge/Currículum-0078D4?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/FedeBarbarroja/CV)
+
+   [![Currículum](https://img.shields.io/badge/Currículum-0078D4?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/FedeBarbarroja/CV)
   
 <hr>
 
