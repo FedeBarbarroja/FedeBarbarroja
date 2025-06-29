@@ -38,6 +38,9 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
   <img src="https://img.shields.io/badge/Seaborn-219ebc?style=for-the-badge&logo=seaborn&logoColor=white">
+  <img src="https://img.shields.io/badge/Tidyverse-8E44AD?style=for-the-badge&logo=tidyverse&logoColor=white" alt="Tidyverse Badge" />
+  <img src="https://img.shields.io/badge/ggplot2-2C3E50?style=for-the-badge&logo=ggplot2&logoColor=white" alt="ggplot2 Badge" />
+
 </span>
 
 <h4> Bases de datos </h4>
@@ -50,6 +53,7 @@
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio Badge" />
 
 <h4> Otras herramientas y tecnologías </h4>
 <span>
