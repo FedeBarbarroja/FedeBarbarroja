@@ -84,6 +84,7 @@
 <Br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FedeBarbarroja&repo=EPH_Income_Analysis_R&show_owner=true)](https://github.com/FedeBarbarroja/EPH_Income_Analysis_R)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FedeBarbarroja&repo=EDA-Travel-Analysis-Pandas&show_owner=true)](https://github.com/FedeBarbarroja/EDA-Travel-Analysis-Pandas)
 
 <hr>
 
