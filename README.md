@@ -17,7 +17,8 @@
 - 🤔: Buscando proyectos en los que trabajar, aprender y perfeccionar mis habilidades.
 - 💬: Experiencia en la extracción, limpieza, análisis y visualización de datos.🔎📊
 - 💡: Interesado en ciencia de datos y ML
-
+- Hace click abajo para ver mi:
+  
    [![Currículum](https://img.shields.io/badge/Currículum-0078D4?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/FedeBarbarroja/CV)
   
 <hr>
@@ -83,8 +84,8 @@
 
 <Br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FedeBarbarroja&repo=EPH_Income_Analysis_R&show_owner=true)](https://github.com/FedeBarbarroja/EPH_Income_Analysis_R)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FedeBarbarroja&repo=EDA-Travel-Analysis-Pandas&show_owner=true)](https://github.com/FedeBarbarroja/EDA-Travel-Analysis-Pandas)
+[![Portafolio](https://github-readme-stats.vercel.app/api/pin/?username=FedeBarbarroja&repo=Portafolio&show_owner=true)](https://github.com/FedeBarbarroja/Portafolio)
+
 
 <hr>
 
