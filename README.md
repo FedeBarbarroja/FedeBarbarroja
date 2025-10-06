@@ -12,7 +12,7 @@
 <h1>Un poco sobre mi :)</h1>
 
 - 🏫: Estudiante avanzado de Tecnicatura en Inteligencia Artificial en la Universidad Nacional de Rosario.🤖
-- 🔭: Actualmente trabajando en pequeños proyectos personales.📈 
+- 🔭: Actualmente trabajando como data analyst en Laboratorios TURNER.📈 
 - 🌱: Aprendiendo NLP, ML Y DL. 🧠💻
 - 🤔: Buscando proyectos en los que trabajar, aprender y perfeccionar mis habilidades.
 - 💬: Experiencia en la extracción, limpieza, análisis y visualización de datos.🔎📊
@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/Seaborn-219ebc?style=for-the-badge&logo=seaborn&logoColor=white">
   <img src="https://img.shields.io/badge/Tidyverse-8E44AD?style=for-the-badge&logo=tidyverse&logoColor=white" alt="Tidyverse Badge" />
   <img src="https://img.shields.io/badge/ggplot2-2C3E50?style=for-the-badge&logo=ggplot2&logoColor=white" alt="ggplot2 Badge" />
+  <img src="https://img.shields.io/badge/Streamlit%20-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 
 </span>
 
