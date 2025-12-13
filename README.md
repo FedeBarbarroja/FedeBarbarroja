@@ -1,99 +1,83 @@
 <p align="center">
-
-<p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
+<hr>
 
+<h1 align="center"> ¡Hola! soy <a href="https://github.com/FedeBarbarroja">Fede</a> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="30px"/></h1>
+<h3 align="center">Software Engineer & Data Scientist</h3>
+
+<br>
+
+<h1>Un poco sobre mi 🚀</h1>
+
+- 🏫 **Formación:** Estudiante avanzado de Tecnicatura en Inteligencia Artificial en la UNR. 🤖
+- 💼 **Actualidad:**
+  - **Trainee Software Engineer** en *Renaiss* (Backend, APIs & Cloud). ☁️
+  - **Analista Funcional / Data Analyst** en *Laboratorios Turner* (NLP & RAG). 📈
+- 🧠 **Especialización:** Desarrollo de agentes de IA, Arquitecturas RAG, Pipelines ETL y Automatización.
+- 💬 **Enfoque:** Transformar datos en soluciones de negocio escalables.
+- 💡 **Intereses:** LLMs, Ingeniería de Software y Modernización de Aplicaciones.
+
+<p align="left">
+  <a href="https://github.com/FedeBarbarroja/CV">
+    <img src="https://img.shields.io/badge/Ver_Mi_Currículum-0078D4?style=for-the-badge&logo=readme&logoColor=white" alt="Currículum">
+  </a>
 </p>
-<hr>
-<h1 align="center"> ¡Hola! soy <a href="https://github.com/FedeBarbarroja">Fede<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-<Br>
-<h1>Un poco sobre mi :)</h1>
 
-- 🏫: Estudiante avanzado de Tecnicatura en Inteligencia Artificial en la Universidad Nacional de Rosario.🤖
-- 🔭: Actualmente trabajando como data analyst en Laboratorios TURNER.📈 
-- 🌱: Aprendiendo NLP, ML Y DL. 🧠💻
-- 🤔: Buscando proyectos en los que trabajar, aprender y perfeccionar mis habilidades.
-- 💬: Experiencia en la extracción, limpieza, análisis y visualización de datos.🔎📊
-- 💡: Interesado en ciencia de datos y ML
-- Hace click para ver mi:
-  
-   [![Currículum](https://img.shields.io/badge/Currículum-0078D4?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/FedeBarbarroja/CV)
-  
 <hr>
 
-<h1>Mis habilidades💻</h1>
+<h1>Mis habilidades 💻</h1>
 
-<h4> Lenguajes </h4>
-<span> 
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-fcbf49?style=for-the-badge&logo=sqlite&logoColor=white">
+<h4>Lenguajes</h4>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
-</span>
+</p>
 
-<h4> Frameworks </h4>
-<span>
+<h4>Data Science & AI</h4>
+<p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/Seaborn-219ebc?style=for-the-badge&logo=seaborn&logoColor=white">
-  <img src="https://img.shields.io/badge/Tidyverse-8E44AD?style=for-the-badge&logo=tidyverse&logoColor=white" alt="Tidyverse Badge" />
-  <img src="https://img.shields.io/badge/ggplot2-2C3E50?style=for-the-badge&logo=ggplot2&logoColor=white" alt="ggplot2 Badge" />
-  <img src="https://img.shields.io/badge/Streamlit%20-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=googlescholar&logoColor=white">
+  <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Tidyverse-8E44AD?style=for-the-badge&logo=tidyverse&logoColor=white">
+</p>
 
-</span>
-
-<h4> Bases de datos </h4>
-<span>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
-
-<h4> IDES </h4>
-<span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio Badge" />
-
-<h4> Otras herramientas y tecnologías </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Microsoft_Office-008000?style=for-the-badge&logo=microsoftoffice&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<h4>Backend & Cloud</h4>
+<p>
+  <img src="https://img.shields.io/badge/API_REST-005571?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-  
-</span>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white">
+</p>
 
-<h4> Conceptos </h4>
-<span>
-  <img src="https://img.shields.io/badge/Análisis_de_Datos-4CAF50?style=for-the-badge&logo=data%20analysis&logoColor=white">
-  <img src="https://img.shields.io/badge/Limpieza_de_Datos-FF5722?style=for-the-badge&logo=cleaning&logoColor=white">
-  <img src="https://img.shields.io/badge/Machine_Learning-2196F3?style=for-the-badge&logo=machinelearning&logoColor=white">
-  <img src="https://img.shields.io/badge/Modelado_Estadístico-9C27B0?style=for-the-badge&logo=statistics&logoColor=white">
-  <img src="https://img.shields.io/badge/Exploración_de_Datos-FFC107?style=for-the-badge&logo=dataexploration&logoColor=white">
-  <img src="https://img.shields.io/badge/Data%20Warehouse-003B5C?style=for-the-badge&logo=databricks&logoColor=white">
-  
-</span>
+<h4>Bases de Datos & Herramientas</h4>
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
 <hr>
 
-<h1>Algunos de mis proyectos🎨</h1>
+<h1>Algunos de mis proyectos 🎨</h1>
 
-<Br>
+<br>
 
 [![Portafolio](https://github-readme-stats.vercel.app/api/pin/?username=FedeBarbarroja&repo=Portafolio&show_owner=true)](https://github.com/FedeBarbarroja/Portafolio)
 
-
 <hr>
 
-<h1 align="center">Contacto📬</h1>
-<Br>
+<h1 align="center">Contacto 📬</h1>
+<br>
 <p align="center">
-<a href="https://www.linkedin.com/in/fedebarbarroja/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:federicobarbarroja05@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/FedeBarbarroja" target="blank"><img align="center" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/fedebarbarroja/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:federicobarbarroja05@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/FedeBarbarroja" target="blank"><img align="center" src="https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <hr>
