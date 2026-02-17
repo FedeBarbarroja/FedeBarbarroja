@@ -21,7 +21,7 @@
 
 <p align="left">
   <a href="https://github.com/FedeBarbarroja/CV">
-    <img src="https://img.shields.io/badge/Ver_Mi_Currículum-0078D4?style=for-the-badge&logo=readme&logoColor=white" alt="Currículum">
+    <img src="https://img.shields.io/badge/Mi_Currículum-0078D4?style=for-the-badge&logo=readme&logoColor=white" alt="Currículum">
   </a>
 </p>
 
@@ -32,7 +32,8 @@
 <h4>Lenguajes</h4>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </p>
 
@@ -44,6 +45,7 @@
   <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=googlescholar&logoColor=white">
   <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Tidyverse-8E44AD?style=for-the-badge&logo=tidyverse&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-4EAA25?style=for-the-badge&logo=OpenCV&logoColor=white">
 </p>
 
 <h4>Backend & Cloud</h4>
@@ -68,7 +70,11 @@
 
 <br>
 
-[![Portafolio](https://github-readme-stats.vercel.app/api/pin/?username=FedeBarbarroja&repo=Portafolio&show_owner=true)](https://github.com/FedeBarbarroja/Portafolio)
+<p align="left">
+  <a href="https://github.com/FedeBarbarroja/Portafolio">
+    <img src="https://img.shields.io/badge/Mi_portafolio-F05032?style=for-the-badge">
+  </a>
+</p>
 
 <hr>
 
