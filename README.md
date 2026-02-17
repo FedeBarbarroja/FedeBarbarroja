@@ -25,6 +25,12 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/FedeBarbarroja/Portafolio">
+    <img src="https://img.shields.io/badge/Mi_portafolio-F05032?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
 <hr>
 
 <h1>Mis habilidades 💻</h1>
@@ -64,17 +70,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-<hr>
-
-<h1>Algunos de mis proyectos 🎨</h1>
-
-<br>
-
-<p align="left">
-  <a href="https://github.com/FedeBarbarroja/Portafolio">
-    <img src="https://img.shields.io/badge/Mi_portafolio-F05032?style=for-the-badge">
-  </a>
-</p>
 
 <hr>
 
