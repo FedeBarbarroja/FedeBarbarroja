@@ -5,19 +5,17 @@
 <hr>
 
 <h1 align="center"> ¡Hola! soy <a href="https://github.com/FedeBarbarroja">Fede</a> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="30px"/></h1>
-<h3 align="center">Software Engineer & Data Scientist</h3>
+<h3 align="center">AI Engineer & Data Scientist</h3>
 
 <br>
 
-<h1>Un poco sobre mi 🚀</h1>
+<h1>Un poco sobre mi </h1>
 
-- 🏫 **Formación:** Estudiante avanzado de Tecnicatura en Inteligencia Artificial en la UNR. 🤖
-- 💼 **Actualidad:**
-  - **Trainee Software Engineer** en *Renaiss* (Backend, APIs & Cloud). ☁️
-  - **Analista Funcional / Data Analyst** en *Laboratorios Turner* (NLP & RAG). 📈
-- 🧠 **Especialización:** Desarrollo de agentes de IA, Arquitecturas RAG, Pipelines ETL y Automatización.
-- 💬 **Enfoque:** Transformar datos en soluciones de negocio escalables.
-- 💡 **Intereses:** LLMs, Ingeniería de Software y Modernización de Aplicaciones.
+-  **Formación:** Técnico en Inteligencia Artificial (UNR).
+-  **Actualidad:**
+  - **AI Engineer** en *inteligencia Analítica*. 
+-  **Especialización:** Desarrollo de agentes de IA, Arquitecturas RAG, Pipelines ETL y Automatización.
+-  **Intereses:** LLMs, Computer Vision, entrenamiento y despliegue de modelos de IA.
 
 <p align="left">
   <a href="https://github.com/FedeBarbarroja/CV">
@@ -33,7 +31,7 @@
 
 <hr>
 
-<h1>Mis habilidades 💻</h1>
+<h1>Mis habilidades</h1>
 
 <h4>Lenguajes</h4>
 <p>
@@ -73,7 +71,7 @@
 
 <hr>
 
-<h1 align="center">Contacto 📬</h1>
+<h1 align="center">Contacto </h1>
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/fedebarbarroja/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;
